@@ -7,3 +7,10 @@ arabia_digital_website.html
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
